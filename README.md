@@ -14,13 +14,16 @@
 - We can get all the exam dates, syllabus for exams, by accessing the web-scraped data and also can get what has happened in a specific class if you've missed that class.
 - We scrape the web-pages of the courses for all the information realted to that course.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - You can query all the important dates and events happening on the institute.
 - It gets data from the academic calendar and your gmail.
 - We integrated it with Gmail API, to read latest emails and check for events happening.
 - Also you could send emails with help of agent.
 
-- You can set reminders for events by asking it with a query which goes like add an event on this day at    this time.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- You can set reminders for events by asking it with a query which goes like add an event on this day at this time.
 - We integrated it with Google Calendar.
 
 # Agent and skills
