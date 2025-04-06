@@ -1,9 +1,9 @@
-# iitm-submission-odyssey
+# IITM-submission-odyssey
 
 
-PlanX
+# Project PlanX
 
-JustBeginners
+# JustBeginners
 1. cs23b016@smail.iitm.ac.in - Yashaswi
 2. cs23b033@smail.iitm.ac.in - Datha Rishyanth
 3. cs23b034@smail.iitm.ac.in - Pranav Marepalli
